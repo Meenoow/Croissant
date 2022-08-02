@@ -4,7 +4,7 @@ body {
 
 h1 {
     text-align: center;
-    color: rgb(156, 179, 122);
+    color: white;
 }
 
 a {
@@ -13,11 +13,6 @@ a {
 }
 
 img {
-    border-radius: 25px;
-    border: 8px solid hsl(204, 13%, 23%);
-    display: block;
-    margin: 0 auto;
-    border-radius: 25px;
-    
-    
+    position: center;
+    width: 100px;
 }
