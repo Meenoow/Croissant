@@ -5,6 +5,7 @@ body {
 h1 {
     text-align: center;
     color: white;
+    font-size: 55px;
 }
 
 a {
@@ -13,6 +14,13 @@ a {
 }
 
 img {
-    position: center;
-    width: 100px;
+    width: 100%;
+    height: auto;
+    border-radius: 25px;
+    display: block;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-evenly;
 }
